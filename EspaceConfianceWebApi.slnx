@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="EspaceConfiance.Application/EspaceConfiance.Application.csproj" />
+  <Project Path="EspaceConfiance.Domain/EspaceConfiance.Domain.csproj" />
+  <Project Path="EspaceConfiance.Infractructure/EspaceConfiance.Infractructure.csproj" />
+  <Project Path="EspaceConfianceWebApi/EspaceConfianceWebApi.csproj" />
+</Solution>

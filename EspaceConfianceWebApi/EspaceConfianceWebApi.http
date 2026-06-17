@@ -1,0 +1,6 @@
+@EspaceConfianceWebApi_HostAddress = http://localhost:5294
+
+GET {{EspaceConfianceWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
